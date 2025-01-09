@@ -4,7 +4,7 @@
   <img src="https://readmestats.999857.xyz/api/top-langs?username=subhraneel2005&show_icons=true&locale=en&layout=compact&theme=dark" alt="Language Stats" />
 </p>
 
-### Connect With Me
+### Find me here
 <a href="https://twitter.com/Subhraneel55545" target="_blank">
   <img src="https://img.shields.io/twitter/follow/Subhraneel55545?style=social" alt="Twitter" />
 </a>

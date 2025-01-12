@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subhraneel Goswami</h1>
+<h1 align="center">Hi I'm Subhraneel Goswami</h1>
 <h3 align="center">A cracked developer from India</h3>
 <p align="center">
   <img src="https://readmestats.999857.xyz/api/top-langs?username=subhraneel2005&show_icons=true&locale=en&layout=compact&theme=dark" alt="Language Stats" />

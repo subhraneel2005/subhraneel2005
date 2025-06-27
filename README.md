@@ -1,4 +1,4 @@
 - 📁 Portfolio: [subhraneel.site](http://subhraneel.site/)
-- 🐦 Twitter: [@subhraneeltwt]("https://x.com/subhraneeltwt")
+- 🐦 Twitter: [@subhraneeltwt](https://x.com/subhraneeltwt)
 - 💼 LinkedIn: [Subhraneel Goswami](https://www.linkedin.com/in/subhraneel-goswami-599931282/)
 - 📧 Email: subhraneeljobs@gmail.com

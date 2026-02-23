@@ -24,3 +24,24 @@
 * [Vidgen](http://vidgen-docs.vercel.app/) – A tool to create viral TikToks, Reels, and Shorts from a single prompt, complete with TikTok-style subtitles, all within the browser.
 * [Realtime Low-Latency Notification Service](https://github.com/subhraneel2005/trpc-realtime-notification-service) – A real-time notification service built with tRPC and native WebSockets.
 * [Docshub](https://github.com/subhraneel2005/docshub) – A CLI tool that transforms any GitHub repository into a beautiful documentation site with a single command.
+---
+## Open Source Contributions – Proof of Work
+
+### 🚀 PRs Raised
+
+#### sugarlabs/musicblocks
+- https://github.com/sugarlabs/musicblocks/pull/5644 (merged)
+- https://github.com/sugarlabs/musicblocks/pull/5748 (merged)
+- https://github.com/sugarlabs/musicblocks/pull/5868 (open)
+
+#### sugarlabs/musicblocks-git-backend
+- https://github.com/sugarlabs/musicblocks-git-backend/pull/8 (open)
+- https://github.com/sugarlabs/musicblocks-git-backend/pull/9 (open)
+- https://github.com/sugarlabs/musicblocks-git-backend/pull/12 (open)
+
+---
+
+### 🐛 Issues Opened
+
+#### sugarlabs/musicblocks-git-backend
+- https://github.com/sugarlabs/musicblocks-git-backend/issues/10

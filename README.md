@@ -19,7 +19,7 @@
 - recently, i built an ai shorts generator pipeline using typescript, node, ai sdk and elevenlabs, handling async orchestration, media processing and api integrations end to end. i enjoy building cool stuffs.
 - i document all my work clearly on github, write technical breakdowns on my portfolio blog, and stay active on X sharing what i build/learn.
 ---
-## All Projects
+## My Projects
 * [Study Toolkit](https://study-toolkit.vercel.app/) – A platform featuring multiple AI agents and tools to help students with their academics.
 * [Vidgen](http://vidgen-docs.vercel.app/) – A tool to create viral TikToks, Reels, and Shorts from a single prompt, complete with TikTok-style subtitles, all within the browser.
 * [Realtime Low-Latency Notification Service](https://github.com/subhraneel2005/trpc-realtime-notification-service) – A real-time notification service built with tRPC and native WebSockets.

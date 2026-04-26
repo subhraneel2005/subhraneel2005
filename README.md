@@ -13,17 +13,23 @@
   </a>
 </p>
 
-# Hi, I'm Subhraneel
-- i love building challenging projects. most of my time goes into coding, shipping and improving my projects. i enjoy taking ideas from 0 → 1 and then scaling them.
-- i actively contribute to open source projects under organizations like Sugar Labs. alongside that, i’m building my own cli tui interface using a modern stack, focusing on clean architecture and developer experience.
-- recently, i built an ai shorts generator pipeline using typescript, node, ai sdk and elevenlabs, handling async orchestration, media processing and api integrations end to end. i enjoy building cool stuffs.
-- i document all my work clearly on github, write technical breakdowns on my portfolio blog, and stay active on X sharing what i build/learn.
----
-## My Projects
-* [Study Toolkit](https://study-toolkit.vercel.app/) – A platform featuring multiple AI agents and tools to help students with their academics.
-* [Vidgen](http://vidgen-docs.vercel.app/) – A tool to create viral TikToks, Reels, and Shorts from a single prompt, complete with TikTok-style subtitles, all within the browser.
-* [Realtime Low-Latency Notification Service](https://github.com/subhraneel2005/trpc-realtime-notification-service) – A real-time notification service built with tRPC and native WebSockets.
-* [Docshub](https://github.com/subhraneel2005/docshub) – A CLI tool that transforms any GitHub repository into a beautiful documentation site with a single command.
----
-### My Open Source Contributions – Proof of Work
-[https://subhraneel.vercel.app/oss](https://subhraneel.vercel.app/oss)
+### hi im subhraneel, here is my proof of work :)
+
+* Terminal Coding Agent — CLI coding companion with tool calling, diff-based file editing, web search/fetch, human approval workflow, agent memory and github integration.
+  https://github.com/subhraneel2005/sidequests
+
+* RAG Systems Lab — Multilingual (Hindi + English) YouTube lecture Q/A using Sentence Transformers, FastAPI, Qdrant, Redis, Gemini 2.5 Flash.
+  https://github.com/subhraneel2005/rag-systems-lab
+
+* Vidgen — Local tool that convert a single prompt into TikTok/Reels/Shorts with auto subtitles using Remotion and Whisper.cpp.
+  https://vidgen-docs.vercel.app/docs
+
+* DocsHubb — A simple TUI that converts a GitHub repo into a docs site with md files.
+  https://docshubb.vercel.app
+
+* Study Toolkit — A platform with AI + productivity toolkit for students built using vercel ai sdk, nextjs and rsc.
+  https://study-toolkit.vercel.app
+
+* Open Source Contributions (im noob loll)
+  https://subhraneel.vercel.app/oss
+
